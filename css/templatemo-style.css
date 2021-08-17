@@ -538,3 +538,12 @@ h5 {
 .copyright-text a {
     color: #bfbfbf;
 }
+
+#logo {
+    display: inline-block;
+    margin: 50px; /* margin: 20px was off */
+    float: left;
+    height: 100px;
+    width: auto; /* correct proportions to specified height */
+    border-radius: 50%; /* makes it a circle */
+}

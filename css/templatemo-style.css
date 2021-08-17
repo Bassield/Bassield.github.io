@@ -539,11 +539,11 @@ h5 {
     color: #bfbfbf;
 }
 
-#logo {
+.logo {
     display: inline-block;
     margin: 50px; /* margin: 20px was off */
     float: left;
-    height: 100px;
+    height: 50px;
     width: auto; /* correct proportions to specified height */
     border-radius: 50%; /* makes it a circle */
 }
